@@ -17,6 +17,11 @@ Each week focusses on a different Machine Learning algorithm. The contents are s
 * Exercise 7 : K-Means clustering and Principal Component Analysis (PCA)
 * Exercise 8 : Anomaly detection and recomender systems
 
+## Getting Started
+
+To run any of the homework exercises, cd into the relevant subdirectory and open the exn.m file (where n is 1 - 8). For example week 3 would be ex3.m. Then run the script which will pop up plots and print info on the console.
+
+
 
 
 
